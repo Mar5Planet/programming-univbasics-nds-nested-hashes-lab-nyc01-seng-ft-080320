@@ -13,7 +13,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  array1 = [{ name:  "Don Gately", occupation: "Live-in Staff" },]
+  array1 = [{ name:  "Don Gately", occupation: "Live-in Staff" }, { name:  "Joelle van Dyne", occupation: "Radio Personality" }, ]
 end
 
 def aoh_lookup(aoh, row, key)
